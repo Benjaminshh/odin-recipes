@@ -1,0 +1,11 @@
+*{
+    text-align: center;
+}
+#chef {
+    width:400px;
+    height:auto;
+}
+a {
+    font-size: 30px;
+    color: rgb(4, 66, 4);
+}
